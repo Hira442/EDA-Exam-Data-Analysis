@@ -1,7 +1,9 @@
 Overview:
 Student Performance Analysis Using Demographic and Behavioral Factors
-In this project, I analyzed a dataset containing student scores in math, reading, and writing, exploring how various demographic and behavioral factors influence academic performance. Key tasks included:
+In this project, I analyzed a dataset containing student scores in math, reading, and writing, exploring how various demographic and behavioral factors influence academic performance.
+
 Steps:
+
 1.	Data Preparation:
 Loaded the dataset and performed initial exploratory data analysis (EDA) to understand its structure, including summary statistics and identifying missing values. Cleaned the dataset by removing unnecessary columns to focus on the most relevant features.
 3.	Gender Distribution Analysis:
